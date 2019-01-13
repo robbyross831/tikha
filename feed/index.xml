@@ -9,8 +9,8 @@
 
 <channel>
 	<title>Tik Tok Fans Generator</title>
-	<atom:link href="https://tiktokhack.com/feed/" rel="self" type="application/rss+xml" />
-	<link>https://tiktokhack.com/</link>
+	<atom:link href="http://tiktokhack.com/feed/" rel="self" type="application/rss+xml" />
+	<link>http://tiktokhack.com/</link>
 	<description>Get Free Tik Tok Fans</description>
 	<lastBuildDate>Sun, 13 Jan 2019 13:54:27 +0000</lastBuildDate>
 	<language>en-US</language>
